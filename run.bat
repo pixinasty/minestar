@@ -1,0 +1,1 @@
+java -jar "D:\Games\Minecraft\minecraft_server.15w44a.jar" nogui
